@@ -16,7 +16,8 @@
 🌱I’m always eager to collaborate on impactful projects, contribute to innovative solutions, and grow as a developer while making a tangible impact.
 Let’s connect and create something amazing together!
 <br>
-📝 Here's my Resume - [Link](https://drive.google.com/file/d/1AV6gWR-Hork0CFT2_UEkoR4T9lOSCdV0/view?usp=sharing)
+📝 Here's my Resume  
+[🔗 View Resume](https://drive.google.com/file/d/1AV6gWR-Hork0CFT2_UEkoR4T9lOSCdV0/view?usp=sharing)
 
 ![MasterHead](/assets/banner_github.png)
 
