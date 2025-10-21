@@ -4,12 +4,11 @@
 
 🔭Hi, I'm Neel Bhattacharya, a passionate and driven Software Developer at Novus Hi-Tech, with a strong academic foundation in Mathematics (Honors) and a postgraduate degree in MCA.
 <br>
-I specialize in web development, with expertise in frontend technologies and a solid understanding of backend systems, along with a growing interest in AI/ML. I love building clean, efficient, and user-friendly digital experiences using modern frameworks like Next.js, React, and TypeScript, complemented by Tailwind CSS for design precision and responsiveness.
+🌏I specialize in web development, with expertise in frontend technologies and a solid understanding of backend systems, along with a growing interest in AI/ML. I love building clean, efficient, and user-friendly digital experiences using modern frameworks like Next.js, React, and TypeScript, complemented by Tailwind CSS for design precision and responsiveness.
 <br>
 🌱My development philosophy centers on writing maintainable, scalable code and continuously improving through challenging and meaningful work.
 <br>
 ✨Highlights of my journey include:
-<br>
 - Strong command of data structures and algorithms, with a 1600+ rating on LeetCode.
 - Skilled in frontend and backend technologies, particularly within the MERN stack.
 - Breaking Barriers: Despite starting without a formal CS background, I achieved strong proficiency in core programming concepts through persistence and self-learning.
