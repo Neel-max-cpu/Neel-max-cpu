@@ -2,7 +2,22 @@
 # 💫 About Me: 
 ![Profile Views](https://komarev.com/ghpvc/?username=Neel-max-cpu&color=yellowgreen&style=for-the-badge&abbreviated=true&base=500)
 
-🔭 Hi, I'm Neel Bhattacharya, a passionate and driven final-year MCA student with a strong foundation in Mathematics (Honors) from my undergraduate studies. My expertise lies in web development, where I specialize in frontend technologies while maintaining a robust understanding of backend systems, and a growing interest in Ai/Ml. <br>🌱 I enjoy crafting clean, efficient, and user-friendly digital experiences, leveraging modern frameworks like Next.js, React, and TypeScript, along with tools like Tailwind CSS for design. With a focus on continuous improvement, I take pride in solving complex challenges and writing maintainable code.<br>✨Other highlights of my journey include:<br>- Proficiency in data structures and algorithms, with a 1600+ rating on Leet code.<br>- Learned frontend and backend technologies, especially in MERN.<br>- Breaking Barriers: Despite starting without a CS foundation, I achieved proficiency in ds algo and mastering core programming concepts through dedication and perseverance.<br>⚡I'm always excited to collaborate on impactful projects and explore roles that challenge me to grow further. Let's connect and create something amazing together!<br>📝 Here's my Resume - [Link](https://drive.google.com/file/d/1_z1NXcVZ-WyTLTJ9t53AHuaVSn8KgvLT/view?usp=sharing)
+🔭Hi, I'm Neel Bhattacharya, a passionate and driven Software Developer at Novus Hi-Tech, with a strong academic foundation in Mathematics (Honors) and a postgraduate degree in MCA.
+<br>
+I specialize in web development, with expertise in frontend technologies and a solid understanding of backend systems, along with a growing interest in AI/ML. I love building clean, efficient, and user-friendly digital experiences using modern frameworks like Next.js, React, and TypeScript, complemented by Tailwind CSS for design precision and responsiveness.
+<br>
+🌱My development philosophy centers on writing maintainable, scalable code and continuously improving through challenging and meaningful work.
+<br>
+✨Highlights of my journey include:
+<br>
+- Strong command of data structures and algorithms, with a 1600+ rating on LeetCode.
+- Skilled in frontend and backend technologies, particularly within the MERN stack.
+- Breaking Barriers: Despite starting without a formal CS background, I achieved strong proficiency in core programming concepts through persistence and self-learning.
+<br>
+I’m always eager to collaborate on impactful projects, contribute to innovative solutions, and grow as a developer while making a tangible impact.
+Let’s connect and create something amazing together!
+<br>
+📝 Here's my Resume - [Link](https://drive.google.com/file/d/1AV6gWR-Hork0CFT2_UEkoR4T9lOSCdV0/view?usp=sharing)
 
 ![MasterHead](/assets/banner_github.png)
 
