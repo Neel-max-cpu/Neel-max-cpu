@@ -15,8 +15,10 @@
 <br>
 🌱I’m always eager to collaborate on impactful projects, contribute to innovative solutions, and grow as a developer while making a tangible impact.
 Let’s connect and create something amazing together!
+<!--
 <br>
 📝 Here's my Resume - <a href="https://drive.google.com/file/d/1Vc1Rhi5HvOgPJzEZs99c2WSZGiPIl8Pf/view?usp=sharing" target="_blank">🔗View Resume</a>
+-->
 <br>
 🐮 Personal Portfolio - <a href="https://portfolio-neel-bhattacharya.vercel.app" target="_blank">Link</a>
 <br>
